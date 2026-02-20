@@ -6,6 +6,7 @@ Las integrantes:
 
 Cristal – Product Owner 
 
+![imagen](https://share.google/huNbsMZXpyvgFBzn4)
 <img width="760" height="380" alt="image" src="https://share.google/images/DtbQbQOAP6c5odyE5"/>
 
 Yhoali – Scrum Master  
