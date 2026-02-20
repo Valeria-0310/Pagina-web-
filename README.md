@@ -6,12 +6,12 @@ Las integrantes:
 
 Cristal – Product Owner 
 
-<img width="760" height="380" alt="image" src="https://github.com/user-attachments/assets/292851c7-40b3-4550-a63b-e8b742ccefe7" />  
+https://share.google/images/DtbQbQOAP6c5odyE5
 
 Yhoali – Scrum Master  
 
-<img width="760" height="380" alt="image" src="https://pin.it/fpcP238KB"/>
+https://share.google/huNbsMZXpyvgFBzn4
 
-Valeria – Scrum Team  
+Valeria – Scrum Team 
 
-https://pin.it/fpcP238KB
+<img width="760" height="380" alt="image" src="https://github.com/user-attachments/assets/292851c7-40b3-4550-a63b-e8b742ccefe7" />  
